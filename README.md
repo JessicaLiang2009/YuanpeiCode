@@ -47,6 +47,7 @@ This project demonstrates a complete pipeline for medical image diagnosis (both 
 ├── main.ipynb                     # Main demonstration notebook
 ├── requirements.txt               # Project dependencies
 └── README.md                      # Project documentation
+
 Getting Started
 1. Installation
 pip install -r requirements.txt
