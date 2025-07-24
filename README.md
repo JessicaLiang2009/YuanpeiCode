@@ -4,7 +4,9 @@ This repository contains a comprehensive demonstration of developing medical ima
 ## Project Overview
 This project demonstrates a complete pipeline for medical image diagnosis (both classification and regression tasks), including:
 
-1. Image Preprocessing: Histogram equalization, Contrast enhancement, Gaussian smoothing, Image resizing, Visualization of preprocessing effects, Dataset Management
+1. Image Preprocessing: Histogram equalization, Contrast enhancement, Gaussian smoothing, Image resizing, Visualization of preprocessing effects
+
+2. Dataset Management
 
 Custom dataset class for medical images
 Train/validation/test split
