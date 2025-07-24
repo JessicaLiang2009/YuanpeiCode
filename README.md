@@ -1,17 +1,16 @@
 # Medical Image Diagnosis using Deep Learning
 This repository contains a comprehensive demonstration of developing medical image diagnosis algorithms using Convolutional Neural Networks (CNN). It is designed for educational purposes to help students understand the complete pipeline of medical AI development and includes advanced features for scientific research.
 
-Project Overview
+## Project Overview
 This project demonstrates a complete pipeline for medical image diagnosis (both classification and regression tasks), including:
 
-Image Preprocessing
-
-Histogram equalization
-Contrast enhancement
-Gaussian smoothing
-Image resizing
-Visualization of preprocessing effects
-Dataset Management
+1. Image Preprocessing
+    Histogram equalization
+    Contrast enhancement
+    Gaussian smoothing
+    Image resizing
+    Visualization of preprocessing effects
+    Dataset Management
 
 Custom dataset class for medical images
 Train/validation/test split
