@@ -8,34 +8,17 @@ This project demonstrates a complete pipeline for medical image diagnosis (both 
 
 2. Dataset Management: Custom dataset class for medical images, Train/validation/test split, Data augmentation, DataLoader implementation
 
-3. Model Architecture
+3. Model Architecture: Custom CNN architecture, Training pipeline, Early stopping, Model checkpointing, Class name mapping for better visualization
 
-Custom CNN architecture
-Training pipeline
-Early stopping
-Model checkpointing
-Class name mapping for better visualization
-Hyperparameter Tuning
+4. Hyperparameter Tuning: Grid search implementation, Parameter optimization, Results visualization, Best model selection
 
-Grid search implementation
-Parameter optimization
-Results visualization
-Best model selection
-Model Comparison & Benchmarking
+5. Model Comparison & Benchmarking: Deep Learning (CNN) vs Traditional ML methods, SVM, Random Forest, Logistic Regression comparison, Feature extraction from pre-trained CNN, Scientific-quality performance visualization
 
-Deep Learning (CNN) vs Traditional ML methods
-SVM, Random Forest, Logistic Regression comparison
-Feature extraction from pre-trained CNN
-Scientific-quality performance visualization
-Advanced Evaluation and Visualization
+6. Advanced Evaluation and Visualization: Training history plots, Confusion matrix with custom class names, Classification metrics (Accuracy, Precision, Recall, F1), ROC and Precision-Recall curves, Scientific paper-quality figures, Performance comparison charts
 
-Training history plots
-Confusion matrix with custom class names
-Classification metrics (Accuracy, Precision, Recall, F1)
-ROC and Precision-Recall curves
-Scientific paper-quality figures
-Performance comparison charts
-Project Structure
+
+## Project Structure
+
 ├── data/                           # Medical image data
 │   ├── ori_images/                # Original raw medical images
 │   ├── after_processed/           # Preprocessed images
