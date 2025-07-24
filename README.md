@@ -6,13 +6,9 @@ This project demonstrates a complete pipeline for medical image diagnosis (both 
 
 1. Image Preprocessing: Histogram equalization, Contrast enhancement, Gaussian smoothing, Image resizing, Visualization of preprocessing effects
 
-2. Dataset Management
+2. Dataset Management: Custom dataset class for medical images, Train/validation/test split, Data augmentation, DataLoader implementation
 
-Custom dataset class for medical images
-Train/validation/test split
-Data augmentation
-DataLoader implementation
-Model Architecture
+3. Model Architecture
 
 Custom CNN architecture
 Training pipeline
